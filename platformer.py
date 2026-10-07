@@ -20,9 +20,9 @@ Win_Condition = False
 
 
 #Importing the background music.
-#mixer.music.load('bgmusic.mp3')
-#mixer.music.set_volume(0.2)
-#mixer.music.play()
+mixer.music.load('bgmusic.mp3')
+mixer.music.set_volume(0.2)
+mixer.music.play()
 
 
 #Importing the fighter we'll be playing with and its current available animations.
