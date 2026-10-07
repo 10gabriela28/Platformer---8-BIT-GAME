@@ -1,0 +1,2 @@
+python platformer.py
+pause
